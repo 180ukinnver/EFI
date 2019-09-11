@@ -23,4 +23,3 @@
 
 ### Power
 <a href="https://seasonic.com/focus-plus-gold">Seasonic FOCUS PLUS 850 GOLD (SSR-850FX)</a>
-
