@@ -1,5 +1,3 @@
-## EFI
-
 ### Mainboard
 <a href="https://www.gigabyte.com/us/Motherboard/Z390-AORUS-PRO-WIFI-rev-10#kf">GIGABYTE Z390 AORUS PRO WIFI</a>
 
