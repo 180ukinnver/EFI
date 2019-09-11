@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## EFI
 
 ### Mainboard
@@ -24,6 +23,4 @@
 
 ### Power
 <a href="https://seasonic.com/focus-plus-gold">Seasonic FOCUS PLUS 850 GOLD (SSR-850FX)</a>
-=======
-# EFI
->>>>>>> parent of 585a7ad... Update README.md
+
